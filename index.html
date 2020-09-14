@@ -12,6 +12,9 @@
 <h3 align="center">Nos tempos modernos, é praticamente impossível viver sem<br />saber pelo menos o básico de como a operar a<br /> tecnologia,por isso criamos o <i>fast tutorials</i> com ele você aprenderá<br />tudo o que precisa des de como mecher em apps famos como <i>WhatsApp</i><br /> até a assistência tecnica de seu dispositivo</h3>
 
 
+
+
+
 <h2 align="center">tipos de tutoriais<h2>
  
 <h3 align="center"> existem 4 tipos:<br />-texto;<br />-foto;<br />-vídeo; </h3>
